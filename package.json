@@ -49,5 +49,8 @@
     "quotmark": "single",
     "trailing": true,
     "unused": true
+  },
+  "dependencies": {
+    "rollup": "^2.75.7"
   }
 }
